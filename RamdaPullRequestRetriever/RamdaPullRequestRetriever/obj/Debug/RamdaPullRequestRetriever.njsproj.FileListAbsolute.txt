@@ -1,0 +1,3 @@
+C:\Users\patri\OneDrive\Desktop\Redox Project\RamdaPullRequestRetriever\RamdaPullRequestRetriever\obj\Debug\RamdaPullRequestRetriever.njsproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\Desktop\Redox Project\RamdaPullRequestRetriever\RamdaPullRequestRetriever\obj\Debug\RamdaPullRequestRetriever.njsproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Desktop\Redox Project\RamdaPullRequestRetriever\RamdaPullRequestRetriever\bin\Microsoft.NodejsTools.WebRole.dll
